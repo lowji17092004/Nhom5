@@ -5,7 +5,7 @@ document.getElementById("actionButton").addEventListener("click", function () {
     // Danh sách thành viên và ảnh tương ứng
     const members = [
         { name: "Luan", imgSrc: "./img/IMG_3647.jpg" },
-        { name: "Loi", imgSrc: "./img/tom.png" },
+        { name: "Loi", imgSrc: "./img/loi.jpg" },
         { name: "Nguyen", imgSrc: "./img/nguyen.jpg" },
         
     ];
