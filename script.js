@@ -6,6 +6,7 @@ document.getElementById("actionButton").addEventListener("click", function () {
     const members = [
         { name: "Luan", imgSrc: "./img/jerry.jpg" },
         { name: "Loi", imgSrc: "./img/tom.png" },
+        { name: "Nguyen", imgSrc: "./img/spike.png" },
         
     ];
 
